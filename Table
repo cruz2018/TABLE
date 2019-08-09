@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>The life is a collection of experience</title>
+		<style type="text/css">
+		
+			table{
+				border: 1px solid black;
+			}
+		
+		
+		
+		</style>
+	</head>
+	
+	<body>
+			<table>
+			
+				<thead>
+					<th>Dog Owner</th>
+					<th>Name</th>
+					<th>Breed</th>
+				</thead>
+				
+				<tr>
+					<td>Marcus</td>
+					<td>Stoner</td>
+					<td>Street</td>
+				</tr>
+				
+				<tr>
+					<td>Alex</td>
+					<td>Biba</td>
+					<td>Retirever</td>
+				</tr>
+				
+				<tr>
+					<td>Mike</td>
+					<td>Dule</td>
+					<td>PitBull</td>
+				</tr>
+				
+				<tr>
+					<td>Petya</td>
+					<td>Suchi</td>
+					<td>Husky</td>
+				</tr>
+			
+			</table>
+		
+	</body>
+</html>
